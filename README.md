@@ -16,6 +16,10 @@ npm i wireless-tools - returned undefined but had lots of options, worth TS
 https://npm.taobao.org/package/node-wifiscanner
 npm install node-wifiscanner - worked but did not return security type.
 
+# Trying to make my own
+https://www.npmjs.com/package/node-cmd
+npm i node-cmd
+
 # notes
 API for looking up mac address manufacturers
 https://www2.macvendors.com/
